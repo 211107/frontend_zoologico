@@ -1,0 +1,7 @@
+.div-input-search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    gap: 10px;
+}
